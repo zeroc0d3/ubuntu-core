@@ -4,7 +4,7 @@ Docker base image for Ubuntu with some core libraries & utilities.
 
 ## What's included
 
-* **Utilities**: vim, screen, lsof, tcpdump, iptraf
+* **Utilities**: vim, tmux, screen, lsof, tcpdump, iptraf
 
 # Usage
 

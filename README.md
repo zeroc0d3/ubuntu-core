@@ -22,3 +22,4 @@ FROM zeroc0d3/ubuntu-core:16.04
 ```
 # build your dockerfile
 $ docker build -t your/project .
+```
